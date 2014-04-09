@@ -1,2 +1,4 @@
 some other stuff.
-should appear in IDE.
+should appear (some change) in IDE.
+
+some more line.
