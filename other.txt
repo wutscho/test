@@ -1,2 +1,4 @@
 some other stuff.
 should appear in IDE.
+
+and again a new one.
