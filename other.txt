@@ -2,5 +2,3 @@ some other stuff.
 should appear in IDE.
 
 some more line.
-
-this is the master
